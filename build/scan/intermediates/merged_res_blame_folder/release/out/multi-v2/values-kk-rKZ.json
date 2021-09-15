@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/lfelipe_sety/Documents/FLUTTER/bikesafer/build/scan/intermediates/incremental/mergeReleaseResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml",
+            "map": [
+                {
+                    "source": "/Users/lfelipe_sety/.gradle/caches/transforms-2/files-2.1/e41dd8aff38d4b080202dfa63f94c853/jetified-scan-1.3.1.300/res/values-kk-rKZ/values-kk-rKZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,172,232,297,365,420,479",
+                        "endColumns": "46,69,59,64,67,54,58,51",
+                        "endOffsets": "97,167,227,292,360,415,474,526"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/lfelipe_sety/Documents/FLUTTER/bikesafer/build/scan/intermediates/res/merged/release/values-kk-rKZ/values-kk-rKZ.xml",
+            "map": [
+                {
+                    "source": "/Users/lfelipe_sety/.gradle/caches/transforms-2/files-2.1/e41dd8aff38d4b080202dfa63f94c853/jetified-scan-1.3.1.300/res/values-kk-rKZ/values-kk-rKZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,172,232,297,365,420,479",
+                        "endColumns": "46,69,59,64,67,54,58,51",
+                        "endOffsets": "97,167,227,292,360,415,474,526"
+                    }
+                }
+            ]
+        }
+    ]
+}
