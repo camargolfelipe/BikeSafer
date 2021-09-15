@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lfelipe_sety/Documents/FLUTTER/bikesafer/build/location/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/lfelipe_sety/.gradle/caches/transforms-2/files-2.1/f1046a77fbed2966ac085e20348c2f50/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/lfelipe_sety/Documents/FLUTTER/bikesafer/build/location/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/lfelipe_sety/.gradle/caches/transforms-2/files-2.1/f1046a77fbed2966ac085e20348c2f50/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/lfelipe_sety/Documents/FLUTTER/bikesafer/build/location/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/lfelipe_sety/.gradle/caches/transforms-2/files-2.1/f1046a77fbed2966ac085e20348c2f50/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

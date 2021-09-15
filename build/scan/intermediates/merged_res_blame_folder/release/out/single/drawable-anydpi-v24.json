@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lfelipe_sety/Documents/FLUTTER/bikesafer/build/scan/intermediates/res/merged/release/drawable-anydpi-v24/scankit_ic_light_on.xml",
+        "source": "/Users/lfelipe_sety/.gradle/caches/transforms-2/files-2.1/e41dd8aff38d4b080202dfa63f94c853/jetified-scan-1.3.1.300/res/drawable-anydpi-v24/scankit_ic_light_on.xml"
+    },
+    {
+        "merged": "/Users/lfelipe_sety/Documents/FLUTTER/bikesafer/build/scan/intermediates/res/merged/release/drawable-anydpi-v24/scankit_hivision_light.xml",
+        "source": "/Users/lfelipe_sety/.gradle/caches/transforms-2/files-2.1/e41dd8aff38d4b080202dfa63f94c853/jetified-scan-1.3.1.300/res/drawable-anydpi-v24/scankit_hivision_light.xml"
+    }
+]
